@@ -2,7 +2,7 @@
 - 👀 I’m interested in Apex and Javascript ATM
 - 🌱 I’m currently learning Apex and Javascript
 - 💞️ I’m looking to collaborate on anything Salesforce, Mulesoft, Data Cloud
-- 📫 How to reach me: ian.sfdc@gmail.com
+- 📫 How to reach me: contact@readystartconsulting.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy hiking.
 
