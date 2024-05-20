@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibrownreadystart
 - 👀 I’m interested in Apex and Javascript ATM
 - 🌱 I’m currently learning Apex and Javascript
-- 💞️ I’m looking to collaborate on anything Salesforce, Mulesoft, Data Cloud
+- 💞️ I’m looking to collaborate on anything Salesforce
 - 📫 How to reach me: contact@readystartconsulting.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy hiking.
