@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on work that positively benefits earth and it's inhabitants
 - 📫 How to reach me: contact@readystartconsulting.com
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy hiking.
 
 <!---
